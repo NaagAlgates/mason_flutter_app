@@ -1,0 +1,7 @@
+name: flutter_app
+description: This brick will create a new Flutter project.
+version: 0.0.1
+vars:
+  - app_name
+  - app_description
+  - app_build_identifier
